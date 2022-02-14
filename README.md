@@ -16,3 +16,5 @@ Then you can decide if you want your results in HTML, PNG or XLSX.
 Finally, using the JasperReport libraries we will print the information.
 
 ![jasperRep](https://user-images.githubusercontent.com/72804203/153914903-9f41c8fa-82e3-4028-bb69-ead6eebcd1ff.JPG)
+
+This project has a lot of potential but is not completely finished
